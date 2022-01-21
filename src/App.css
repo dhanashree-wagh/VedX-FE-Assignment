@@ -1,0 +1,23 @@
+.headcolor{
+ background-color:rgba(109, 230, 252, 0.3);
+}
+.mdcontainer{
+  margin-top: 100px;
+}
+.top{
+  display: flex;
+  position: sticky;
+}
+.filter{
+  flex: 6;
+  display: flex;
+}
+.search{
+  flex: 4;
+
+
+
+}
+.back{
+  background-color: rgb(240, 245, 248);
+}
